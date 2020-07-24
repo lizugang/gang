@@ -2,13 +2,66 @@
     <div class="_content">
         <div class="container" id="container" :class="show?'show-nav':''">
             <div class="content">
-                <h1>Amazing Article</h1>
+                <!-- <h1>Amazing Article</h1>
                 <small>by Florin Pop 🤪</small>
                 <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Exercitationem facilis distinctio nisi! Vel eius ab sequi repellendus reiciendis voluptatum id qui dolores earum incidunt nulla, molestias quam quidem dicta odit fuga ratione provident natus quibusdam dolor labore est. Illum nisi voluptatem esse nostrum ipsa accusamus perspiciatis vel quaerat labore in natus voluptatum, sequi harum libero, et cumque nesciunt reiciendis voluptates laudantium deserunt. Placeat aliquid neque commodi nostrum necessitatibus? Accusamus ullam vel ea nesciunt sint suscipit laboriosam eos saepe ducimus quo, nam perspiciatis exercitationem laborum deleniti facilis pariatur minima rem maiores neque fugiat quae rerum, recusandae soluta magni. Praesentium, sed nostrum?</p>
                 <p>Illum error officiis voluptate maiores consequatur, ad, ducimus magni impedit libero officia dolorum eum nesciunt doloribus exercitationem sunt pariatur excepturi adipisci cumque natus rem tempora accusamus rerum velit sequi. Tempora magni quasi sunt placeat officia rem porro repudiandae optio corrupti aut quam nihil inventore sit, totam quibusdam dolorem, minus eius, expedita architecto quisquam vero pariatur incidunt. Officiis libero exercitationem eveniet modi. Quos enim quasi sit praesentium aut minima maiores doloremque odio magnam culpa, magni cupiditate harum dolorum. Necessitatibus qui rerum consequatur officia amet, aspernatur officiis tempora labore ab. Error, eum asperiores! Consequatur deserunt dolorem aut accusamus cum eius rerum veniam?</p>
                 <h3>Look a cute doggie! 🥰</h3>
                 <img src="../assets/img/41.jpg" alt="doggy" />
-                <p>Maiores, necessitatibus! Deserunt culpa ullam repudiandae pariatur nisi qui veniam nobis, consectetur iste laudantium modi dolores totam quos ratione ipsum aspernatur iure optio? Itaque tenetur nemo aspernatur eveniet maiores, laudantium sequi odio repellat perferendis voluptas. Necessitatibus impedit esse aliquid vero aut quibusdam, culpa iste delectus consectetur quasi cumque, iure distinctio blanditiis, adipisci voluptatum veniam. Maxime iste illo praesentium natus ex? Sapiente dicta rerum dignissimos omnis porro obcaecati quidem fugit. Sit commodi dolor doloribus distinctio odit quaerat possimus asperiores provident aliquam! Magni laboriosam quo quisquam earum accusamus fuga aut tempore labore quos dolorum nobis fugiat cupiditate alias sit, quasi numquam deserunt!</p>
+                <p>Maiores, necessitatibus! Deserunt culpa ullam repudiandae pariatur nisi qui veniam nobis, consectetur iste laudantium modi dolores totam quos ratione ipsum aspernatur iure optio? Itaque tenetur nemo aspernatur eveniet maiores, laudantium sequi odio repellat perferendis voluptas. Necessitatibus impedit esse aliquid vero aut quibusdam, culpa iste delectus consectetur quasi cumque, iure distinctio blanditiis, adipisci voluptatum veniam. Maxime iste illo praesentium natus ex? Sapiente dicta rerum dignissimos omnis porro obcaecati quidem fugit. Sit commodi dolor doloribus distinctio odit quaerat possimus asperiores provident aliquam! Magni laboriosam quo quisquam earum accusamus fuga aut tempore labore quos dolorum nobis fugiat cupiditate alias sit, quasi numquam deserunt!</p> -->
+                <div class="header_box">
+                    <div>
+                        <img src="../assets/img/good.jpg" alt="">
+                        <p>蓝色背后是纯情</p>
+                    </div>
+                </div>
+                <div class="_all_new">
+                    <div class="_new_list">
+                        <p>vue打包项目发现为空白页，且js加载报错</p>
+                        <p class="_new_cont">这是内容，内容只设置最多显示2行，多了省略换成省略号。详情页要加评价和回复，有分页，时间，这条路有点长。。。。。。。。。</p>
+                        <p class="_all_time">
+                            <span>发布日期：2020-07-24</span>
+                            <span>浏览量：22</span>
+                            <span>点赞数：22</span>
+                        </p>
+                    </div>
+                    <div class="_new_list">
+                        <p>vue打包项目发现为空白页，且js加载报错</p>
+                        <p class="_new_cont">这是内容，内容只设置最多显示2行，多了省略换成省略号。详情页要加评价和回复，有分页，时间，这条路有点长。。。。。。。。。</p>
+                        <p class="_all_time">
+                            <span>发布日期：2020-07-24</span>
+                            <span>浏览量：22</span>
+                            <span>点赞数：22</span>
+                        </p>
+                    </div>
+                    <div class="_new_list">
+                        <p>vue打包项目发现为空白页，且js加载报错</p>
+                        <p class="_new_cont">这是内容，内容只设置最多显示2行，多了省略换成省略号。详情页要加评价和回复，有分页，时间，这条路有点长。。。。。。。。。</p>
+                        <p class="_all_time">
+                            <span>发布日期：2020-07-24</span>
+                            <span>浏览量：22</span>
+                            <span>点赞数：22</span>
+                        </p>
+                    </div>
+                    <div class="_new_list">
+                        <p>vue打包项目发现为空白页，且js加载报错</p>
+                        <p class="_new_cont">这是内容，内容只设置最多显示2行，多了省略换成省略号。详情页要加评价和回复，有分页，时间，这条路有点长。。。。。。。。。</p>
+                        <p class="_all_time">
+                            <span>发布日期：2020-07-24</span>
+                            <span>浏览量：22</span>
+                            <span>点赞数：22</span>
+                        </p>
+                    </div>
+                    <div class="_new_list">
+                        <p>vue打包项目发现为空白页，且js加载报错</p>
+                        <p class="_new_cont">这是内容，内容只设置最多显示2行，多了省略换成省略号。详情页要加评价和回复，有分页，时间，这条路有点长。。。。。。。。。</p>
+                        <p class="_all_time">
+                            <span>发布日期：2020-07-24</span>
+                            <span>浏览量：22</span>
+                            <span>点赞数：22</span>
+                        </p>
+                    </div>
+                </div>
             </div>
         </div>
         <div class="new_btn">
@@ -21,6 +74,12 @@
                         <i class="iconfont icon-daohang" style="font-size:26px"></i>
                     </button>
                 </div>
+            </div>
+        </div>
+        <div class="all_btn">
+            <div class="_but_btm" :class="show?'_but_btm1':''">
+                <p class="_btn1" style="width:130px">记录（22）</p>
+                <p class="_btn1" style="width:150px">转载（55）</p>
             </div>
         </div>
     </div>
@@ -41,10 +100,49 @@ export default {
     @import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
     @import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
     ._index{display: flex;}
+    ._all_new{
+        width: 70%;
+    }
+    ._new_list{
+        background-color: rgba(255,255,255,0.6);
+        padding: 10px;
+        border-radius: 10px;
+        margin: 10px 0;
+    }
+    ._new_cont{
+        margin: 10px 0;
+    }
+    ._all_time{
+        display: flex;
+        justify-content: space-around;
+    }
     .get_btn{
         transform-origin: left top;
         transform: rotate(-90deg) !important;
         transition: transform 0.5s linear;
+    }
+    .all_btn{
+        position: fixed;
+        bottom: 46px;
+        left: calc((100% - 1179px)/2);
+        width: 150px;
+        height: 82px;
+        overflow: hidden;
+    }
+    ._but_btm{
+        font-size: 20px;
+        color: #001F61;
+        font-weight: 600;
+        text-align: right;
+        line-height: 40px;
+        position: absolute;
+        width: 100%;
+        top: 0;
+        left: -150px;
+        transition: left .5s;
+    }
+    ._but_btm1{
+        left: 0;
     }
     .no_btn{
         transform-origin: left top;
@@ -75,7 +173,7 @@ export default {
         // background-color: #fafafa;
         transform-origin: top left;
         transition: transform 0.5s linear;
-        padding: 50px;
+        padding: 50px 0;
         min-height: 100vh;overflow-y: scroll;
         height: 100%;
         position: relative;
@@ -193,8 +291,12 @@ export default {
 
 
     .content {
-        max-width: 1000px;
-        margin: 50px auto;
+        // max-width: 1000px;
+        // margin: 30px auto;
+        // display: flex;
+        display: flex;
+        flex-wrap: wrap;
+        padding: 20px 30px;
     }
 
     .content h1 {
